@@ -1,4 +1,4 @@
-package com.shukla2009.maven-pg;
+package com.shukla2009.mavenpg;
 
 /**
  * Hello world!
@@ -11,3 +11,4 @@ public class App
         System.out.println( "Hello World!" );
     }
 }
+

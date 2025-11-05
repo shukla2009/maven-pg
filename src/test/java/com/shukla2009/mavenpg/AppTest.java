@@ -1,4 +1,4 @@
-package com.shukla2009.maven-pg;
+package com.shukla2009.mavenpg;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
@@ -36,3 +36,4 @@ public class AppTest
         assertTrue( true );
     }
 }
+
